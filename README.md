@@ -1,4 +1,4 @@
-# Bus Shelter Design IRHS
+# Bus Shelter Design IRHS by SAM
 
 ![ArcWave Station Poster](./assets/poster/ArcWave_Station_Poster.png)
 
