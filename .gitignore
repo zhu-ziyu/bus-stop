@@ -1,0 +1,11 @@
+# 忽略所有 .psd 文件
+*.psd
+
+# 忽略所有 .blend 文件
+*.blend
+
+# 忽略所有 .blend1 文件
+*.blend1
+
+# 忽略所有 .rar 文件
+*.rar
